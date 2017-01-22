@@ -18,6 +18,8 @@ Here are the list of Technology divided by Server side and client side Technolog
 * [polymer]() - we will be using a [polymer starter kit](https://developers.google.com/web/tools/polymer-starter-kit/).
 > The Polymer Starter Kit is a starting point for building apps using a drawer-based layout. The layout is provided by app-layout elements.
 
+* [Aurelia](http://aurelia.io/) - we will be following a [quick start guide](http://aurelia.io/hub.html#/doc/article/aurelia/framework/latest/quick-start/1) describe in aurelia documentation.
+
 * [Go](https://golang.org/)
 
 * [GraphQL](http://graphql.org/learn/)
